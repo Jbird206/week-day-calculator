@@ -3,7 +3,7 @@ NPM project where a user inputs the date and it will tell you what day of the we
 
 #include a .babelrc and .eslintrc files!
 
-npm install and npm run build start.
+npm install and npm run build start, npm start
 
 .eslintrc
 {
